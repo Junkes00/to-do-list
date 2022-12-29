@@ -1,0 +1,7 @@
+.header-container {
+  color: white;
+
+  /* width: 135px; */
+  border-bottom: 2px solid chartreuse;
+  padding: 2px;
+}
