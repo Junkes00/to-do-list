@@ -10,12 +10,13 @@
   border-radius: 1rem;
   border: none;
   flex: 2;
-  color: #000;
+  background-color: #444;
+  color: #eee;
   font-size: 1rem;
 }
 
-.add-task-button {
-  margin-left: 0.6rem;
+.add-task-button-container {
+  margin-left: 1rem;
   flex: 1;
   border-radius: 1rem;
 }
